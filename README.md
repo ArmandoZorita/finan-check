@@ -1,6 +1,6 @@
 # finan-check
 
-This template should help get you started developing with Vue 3 in Vite.
+A financial check system (for now a browser storaged file) to keep track of your finances.
 
 ## Recommended IDE Setup
 
@@ -36,3 +36,6 @@ npm run dev
 ```sh
 npm run build
 ```
+### DB
+- public/transactions-db.json
+- public/users-db.json
