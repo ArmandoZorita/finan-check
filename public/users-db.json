@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": "usr_01",
+      "username": "alex",
+      "passwordHash": "1234",
+      "profilePhoto": "https://api.dicebear.com/7.x/bottts/svg?seed=Alex"
+    }
+  ]
+}
